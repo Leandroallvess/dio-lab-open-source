@@ -1,8 +1,8 @@
 ### Hi there I'm Leandro Alves 👋
 
-sou um eterno estudante das tecnologias, buasco esta atualizado nas novas techs quem vem surgindo, assim como as IAs e entre outras quem vem tendo
-destaques no mundo e principalmente com nos desenvolverdor. Dito isso, Falando um pouco das minhas habilidades, comercei a estudar logica de programaçao 
-com javascript/typescript, banco de dados com postgreSql e mysql.
+sou um eterno estudante das tecnologias, buscando esta atualizado nas novas techs vem surgindo, assim como as IAs e entre outras que vem tendo
+em destaques no mundo e principalmente com nós desenvolverdores. Dito isso, Falando um pouco das minhas habilidades, comercei a estudar logica de programaçao 
+e familiarizar com o desenvolvimento de sistemas com a linguagem javascript/typescript, banco de dados com postgreSql e mysql no curso Tecnico de Informatica por IFS- Istituto Federal Sergipe.
 
 ## Tecnologia Habilidades
 
